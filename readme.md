@@ -1,4 +1,4 @@
-# Simple Laravel 5.4 CRUD Demo
+# Simple Laravel CRUD Demo
 
 ## Installation
 
